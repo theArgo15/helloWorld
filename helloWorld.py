@@ -1,4 +1,4 @@
 x="Hello World"
-y="Git is a PITA"
+y="Git is neat"
 print(x)
 print(y)
